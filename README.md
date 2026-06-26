@@ -41,7 +41,7 @@
 
 #### 📦 [Courier Tracking System](https://github.com/Tharunnayak-45/Courier-Tracking-System-App)
 > Web-based application for booking couriers, tracking shipment status, and managing delivery operations.
-> http://localhost:8081/CTS/
+- **localhost:**http://localhost:8081/CTS/
 - **Tech:** Java, JSP, Servlets, MySQL, HTML/CSS
 - **Features:** User authentication, shipment booking, real-time status tracking, admin dashboard
 
