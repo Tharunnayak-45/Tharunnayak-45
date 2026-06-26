@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mudavath Tharun</h1>
 <h3 align="center">I am Student of VJIT | CSE Student Graduate |</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?Always+building%2C+always+learning" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
