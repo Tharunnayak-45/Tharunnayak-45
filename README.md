@@ -1,6 +1,9 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<img src="https://github.com/user-attachments/assets/dffbe8e1-0fc4-466e-b680-05be6a77fd86"
+  width="160"
+  height="160"
+  style="border-radius: 50%;"
+/>
 
 </div>
 
