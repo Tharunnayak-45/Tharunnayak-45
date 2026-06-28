@@ -1,6 +1,12 @@
+
 # Hi 👋, I'm Mudavath Tharun
 
 <h3 align="center">Computer Science & Engineering Student</h3>
+      <p> VJIT B.Tech Student Final Year</p>
+      <p align="center">
+ <img width="864" height="1184" alt="20260610_130946-IMG_STYLE" src="https://github.com/user-attachments/assets/dffbe8e1-0fc4-466e-b680-05be6a77fd86" />
+
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tharunnayak-45&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -114,10 +120,6 @@ https://github.com/Tharunnayak-45/Customer-Segmentation-project
 <img src="https://github-readme-stats.vercel.app/api?username=Tharunnayak-45&show_icons=true&theme=tokyonight" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunnayak-45&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharunnayak-45&theme=tokyonight"/>
 </p>
 
 ---
