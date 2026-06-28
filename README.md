@@ -1,37 +1,4 @@
-<div align="center">
-
-
-</div>
-
-<!-- HERO SECTION -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr>
-<td width="200" valign="top" align="center">
-
-<br/>
-
-<img src="https://github.com/user-attachments/assets/dffbe8e1-0fc4-466e-b680-05be6a77fd86"
-  width="160"
-  height="160"
-  style="border-radius: 50%; object-fit: cover; border: 3px solid #2c5364;"
-/>
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudavaththarunnayak)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mtharun616@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tharunnayak-45)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Tharunnayak-45&label=Views&color=2c5364&style=flat-square)
-
-</td>
-<td valign="top" style="padding-left: 24px;">
-
-<br/>
-
-# Mudavath Tharun
+## Mudavath Tharun
 
 ### 🎓 B.Tech — Computer Science & Engineering
 **Vidya Jyothi Institute of Technology (VJIT), Hyderabad** · Final Year
