@@ -12,11 +12,11 @@
 ---
 ## 👨‍💻 About Me
 
-I am a **Final-year B.Tech Computer Science and Engineering student** with a strong interest in **Java Full Stack Development, Artificial Intelligence, and Software Engineering**. I enjoy designing and developing scalable, user-centric applications while continuously improving my problem-solving and programming skills.
+I am a **Final-year B.Tech Computer Science and Engineering student** with a strong interest in **Software Engineering** and **Java Developer**. I enjoy designing and developing scalable, user-centric applications while continuously improving my problem-solving and programming skills.
 
-Through academic and personal projects, I have gained hands-on experience in **Java, Spring Boot, REST APIs, MySQL, HTML, CSS, JavaScript, Python, and Machine Learning**. I am passionate about building real-world solutions and exploring modern technologies that create meaningful impact.
+Through academic and personal projects, I have gained hands-on experience in **Java, MySQL, HTML, CSS, JavaScript, Python**. I am passionate about building real-world solutions and exploring modern technologies that create meaningful impact.
 
-I am currently seeking **Software Engineer, Java Developer, and Full Stack Developer** internship or full-time opportunities where I can contribute, learn from experienced professionals, and grow in a collaborative environment.
+I am currently seeking **Software Engineer** internship or full-time opportunities where I can contribute, learn from experienced professionals, and grow in a collaborative environment.
 
 **Core Skills:** Java • Spring Boot • REST APIs • SQL • HTML • CSS • JavaScript • Python • AI/ML • Data Structures & Algorithms
 
@@ -63,11 +63,11 @@ A Java Full Stack web app for booking, tracking, and managing courier deliveries
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tharunnayak-45/Courier-Tracking-System-App)  # 🎥 Live Demo
 
-# 🌐 Live Demo
+<h3>🌐 Live Demo</h3>
 
-🎥 **Project Demo Video**
-
-[▶️ Click Here](https://github.com/user-attachments/assets/1cc8cae1-d751-4319-89e4-01c211b98967)
+<a href="https://github.com/user-attachments/assets/1cc8cae1-d751-4319-89e4-01c211b98967" target="_blank">
+  ▶️Click Here Watch Demo
+</a>
 
 </td>
 <td width="33%" valign="top">
@@ -135,5 +135,14 @@ A Machine Learning project applying K-Means clustering for intelligent customer 
   </a>
 </p>
 
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my projects, consider giving them a ⭐ on GitHub.
+
+</div>
 ---
+
+
 
