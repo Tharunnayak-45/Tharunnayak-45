@@ -61,7 +61,7 @@ A Java Full Stack web app for booking, tracking, and managing courier deliveries
 ✅ Admin Dashboard  
 ✅ Delivery Status Management  
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tharunnayak-45/Courier-Tracking-System-App)  # 🎥 Live Demo
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tharunnayak-45/Courier-Tracking-System-App)
 
 <h3>🌐 Live Demo</h3>
 
