@@ -1,150 +1,239 @@
-## Mudavath Tharun
+<!-- Animated Banner -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Mudavath%20Tharun&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Open%20Source%20Contributor&descAlignY=60"/>
+</p>
 
-### 🎓 B.Tech — Computer Science & Engineering
-**Vidya Jyothi Institute of Technology (VJIT), Hyderabad** · Final Year
+<h1 align="center">Hi 👋 I'm Mudavath Tharun</h1>
 
----
-
-> *"Code. Learn. Build. Improve. Repeat."*
-
-I'm a passionate CS undergrad focused on **Java Full Stack Development**, **Artificial Intelligence**, and **Data Science**. I build real-world web applications and ML solutions, and I'm always looking to collaborate on impactful open-source projects.
-
-📫 **mtharun616@gmail.com** &nbsp;|&nbsp; 📍 **Hyderabad, India**
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 About Me
-
-| | |
-|---|---|
-| 🎯 **Goal** | Become a Software Engineer contributing to impactful, scalable products |
-| 💻 **Focus** | Java Full Stack · Artificial Intelligence · Data Science |
-| 🌱 **Currently Learning** | Spring Boot · REST APIs · React · Machine Learning |
-| 🤝 **Open To** | Java, Python, AI & Open Source Collaborations |
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
-![Servlets](https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Tools & Platforms
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 📦 Courier Tracking System
-A Java Full Stack web app for booking, tracking, and managing courier deliveries with role-based access.
-
-**Stack:** Java · JSP · Servlets · JDBC · MySQL · HTML/CSS/JS
-
-✅ User Authentication  
-✅ Courier Booking & Tracking  
-✅ Admin Dashboard  
-✅ Delivery Status Management  
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tharunnayak-45/Courier-Tracking-System-App)
-
-</td>
-<td width="33%" valign="top">
-
-### 🖼️ Image Gallery
-A fully responsive Image Gallery with category filtering and search, built with vanilla HTML/CSS/JS.
-
-**Stack:** HTML5 · CSS3 · JavaScript
-
-✅ Responsive Design  
-✅ Category Filtering  
-✅ Search Functionality  
-✅ Mobile Friendly UI  
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tharunnayak-45/CodeAlpha_Image-Gallery)
-
-</td>
-<td width="33%" valign="top">
-
-### 🤖 Customer Segmentation
-A Machine Learning project applying K-Means clustering for intelligent customer segmentation.
-
-**Stack:** Python · Pandas · NumPy · Scikit-learn · Matplotlib
-
-✅ K-Means Clustering  
-✅ Data Preprocessing  
-✅ Cluster Visualization  
-✅ Behavioral Analysis  
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tharunnayak-45/Customer-Segmentation-project)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Statistics
+<h3 align="center">
+• VJIT Final Year Student • Computer Science Engineer
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tharunnayak-45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunnayak-45&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Artificial+Intelligence+Enthusiast;Machine+Learning+Learner;Open+Source+Contributor;Always+Learning+New+Technologies"/>
 </p>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 Final-year B.Tech Computer Science and Engineering student with a strong interest in Java Full Stack Development and Software Engineering. Experienced in developing real-world applications and continuously enhancing technical skills through hands-on projects. Seeking internship and full-time opportunities to contribute, learn, and grow as a software developer.
+
+🏫 Vidya Jyothi Institute of Technology
+
+💻 Passionate about building scalable Java applications.
+
+🚀 Interested in
+
+- Java Full Stack Development
+- Artificial Intelligence
+- Machine Learning
+- REST APIs
+- Data Science
+
+🌱 Currently Learning
+
+- Spring Boot
+- React
+- Docker
+- Microservices
+- AWS
+
+🎯 Career Goal
+
+To become a Software Engineer building products used by millions.
+
+---
+
+# 🚀 Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+## Frameworks
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+</p>
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+
+
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+## 🚚 Courier Tracking System
+
+Java Full Stack Web Application
+
+### Features
+
+- Secure Login Authentication
+- Courier Booking
+- Shipment Tracking
+- Admin Dashboard
+- Delivery Status Updates
+- Responsive UI
+
+### Tech Stack
+
+Java • JSP • Servlets • JDBC • MySQL • HTML • CSS • JavaScript
+
+🔗 Repository
+
+https://github.com/Tharunnayak-45/Courier-Tracking-System-App
+
+---
+
+## 🖼️ Image Gallery
+
+Responsive Image Gallery
+
+Features
+
+- Search
+- Category Filter
+- Responsive Design
+- Fast Loading
+
+Repository
+
+https://github.com/Tharunnayak-45/CodeAlpha_Image-Gallery
+
+---
+
+## 🤖 Customer Segmentation
+
+Machine Learning Project
+
+Features
+
+- K-Means Clustering
+- Data Visualization
+- Customer Analysis
+- Python
+
+Repository
+
+https://github.com/Tharunnayak-45/Customer-Segmentation-project
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tharunnayak-45&theme=tokyonight&hide_border=true" height="170"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tharunnayak-45&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunnayak-45&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🤝 Let's Connect
+<p align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mudavaththarunnayak" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:mtharun616@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Tharunnayak-45" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharunnayak-45&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-<div align="center">
+# 📊 Contribution Graph
 
-*Open to full-time roles, internships, and collaborative projects · Available immediately*
+<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=80&section=footer" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharunnayak-45&theme=tokyo-night"/>
 
-</div>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tharunnayak-45&theme=tokyonight&no-frame=true&column=7"/>
+
+</p>
+
+---
+
+# 📜 Certifications
+
+- Java Programming
+- Python Programming
+- Data Science
+- Artificial Intelligence
+- Machine Learning
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/mudavaththarunnayak">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:mtharun616@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Tharunnayak-45">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> "First, solve the problem. Then, write the code."
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
+
+</p>
