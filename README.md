@@ -1,13 +1,10 @@
 
-</td>
-<td valign="top" style="padding-left: 24px;">
-
-<br/>
-
+<center>
 # Hi,👋 I'm Mudavath Tharun
 
 ### 🎓 B.Tech — Computer Science & Engineering
-**Vidya Jyothi Institute of Technology (VJIT), Hyderabad** · Final Year
+**Vidya Jyothi Institute of Technology (VJIT), Hyderabad** - Final Year
+</center>
 
 ---
 ## 👨‍💻 About Me
