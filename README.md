@@ -67,6 +67,38 @@ A Java Full Stack web app for booking, tracking, and managing courier deliveries
 
 </td>
 <td width="33%" valign="top">
+<td width="33%" valign="top">
+
+### 🎵 BeatVerse
+
+A modern Spotify-inspired web music player built with **HTML, CSS, and JavaScript**, featuring smooth playback controls, playlist management, favorites, responsive layouts, and an immersive user experience.
+
+**Stack:** HTML5 · CSS3 · JavaScript · Font Awesome · Google Fonts
+
+✅ Modern Spotify-inspired UI  
+✅ Music Playback Controls  
+✅ Playlist Management  
+✅ Favorite Songs  
+✅ Responsive Design  
+✅ Smooth Animations  
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tharunnayak-45/CodeAlpha_Music-Player)
+
+<h3>🌐 Live Website</h3>
+
+<a href="https://beatverse-player.vercel.app/" target="_blank">
+  🌍 Visit BeatVerse
+</a>
+
+<br><br>
+
+<h3>🎥 Project Demo</h3>
+
+<a href="https://drive.google.com/file/d/1Z4lMg_foHQljNfgwwEZ-oLg-27mmICQc/view?usp=drive_link" target="_blank">
+  ▶️ Click Here to Watch Demo
+</a>
+
+</td>
 
 ### 🖼️ Image Gallery
 A fully responsive Image Gallery with category filtering and search, built with vanilla HTML/CSS/JS.
