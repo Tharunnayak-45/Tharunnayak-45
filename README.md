@@ -40,102 +40,86 @@ I am currently seeking **Software Engineer** internship or full-time opportuniti
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
 ## 📂 Featured Projects
 
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
+---
 
 ### 📦 Courier Tracking System
 
-A Java Full Stack web app for booking, tracking, and managing courier deliveries with role-based access.
+A Java Full Stack web application for booking, tracking, and managing courier deliveries with role-based access.
 
-**Stack:** Java · JSP · Servlets · JDBC · MySQL · HTML/CSS/JS
+**Tech Stack:** Java • JSP • Servlets • JDBC • MySQL • HTML • CSS • JavaScript
 
-✅ User Authentication  
-✅ Courier Booking & Tracking  
-✅ Admin Dashboard  
-✅ Delivery Status Management
+**Features**
+- ✅ User Authentication
+- ✅ Courier Booking & Tracking
+- ✅ Admin Dashboard
+- ✅ Delivery Status Management
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tharunnayak-45/Courier-Tracking-System-App)
+🔗 **Repository:**  
+https://github.com/Tharunnayak-45/Courier-Tracking-System-App
 
-<h4>🎥 Demo</h4>
+🎥 **Demo:**  
+https://github.com/user-attachments/assets/1cc8cae1-d751-4319-89e4-01c211b98967
 
-<a href="https://github.com/user-attachments/assets/1cc8cae1-d751-4319-89e4-01c211b98967">
-▶️ Watch Demo
-</a>
-
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### 🎵 BeatVerse
 
-A modern Spotify-inspired music player featuring smooth playback, playlists, favorites, and a beautiful responsive UI.
+A modern Spotify-inspired music player built with HTML, CSS, and JavaScript featuring responsive layouts, playlist management, favorites, and smooth playback controls.
 
-**Stack:** HTML5 · CSS3 · JavaScript
+**Tech Stack:** HTML • CSS • JavaScript • Font Awesome • Google Fonts
 
-✅ Spotify-inspired UI  
-✅ Playlist Management  
-✅ Favorite Songs  
-✅ Responsive Design
+**Features**
+- ✅ Spotify-inspired UI
+- ✅ Music Playback
+- ✅ Playlist Management
+- ✅ Favorite Songs
+- ✅ Responsive Design
+- ✅ Smooth Animations
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tharunnayak-45/CodeAlpha_Music-Player)
+🔗 **Repository:**  
+https://github.com/Tharunnayak-45/CodeAlpha_Music-Player
 
-<h4>🌐 Live Website</h4>
+🌐 **Live Website:**  
+https://beatverse-player.vercel.app/
 
-<a href="https://beatverse-player.vercel.app/">
-🌍 Visit Website
-</a>
+🎥 **Demo:**  
+https://drive.google.com/file/d/1Z4lMg_foHQljNfgwwEZ-oLg-27mmICQc/view
 
-<br><br>
-
-<h4>🎥 Demo</h4>
-
-<a href="https://drive.google.com/file/d/1Z4lMg_foHQljNfgwwEZ-oLg-27mmICQc/view?usp=drive_link">
-▶️ Watch Demo
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+---
 
 ### 🖼️ Image Gallery
 
-A responsive image gallery featuring search, filtering, and a modern user interface.
+A responsive image gallery with category filtering, search functionality, and an elegant modern interface.
 
-**Stack:** HTML5 · CSS3 · JavaScript
+**Tech Stack:** HTML • CSS • JavaScript
 
-✅ Category Filtering  
-✅ Search Functionality  
-✅ Responsive Design  
-✅ Modern UI
+**Features**
+- ✅ Responsive Design
+- ✅ Category Filtering
+- ✅ Search Functionality
+- ✅ Modern UI
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tharunnayak-45/CodeAlpha_Image-Gallery)
+🔗 **Repository:**  
+https://github.com/Tharunnayak-45/CodeAlpha_Image-Gallery
 
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### 🤖 Customer Segmentation
 
-Machine Learning project using K-Means clustering to identify customer groups based on purchasing behaviour.
+A Machine Learning project that uses the K-Means clustering algorithm to analyze customer behavior and create meaningful customer segments.
 
-**Stack:** Python · Pandas · NumPy · Scikit-learn
+**Tech Stack:** Python • Pandas • NumPy • Scikit-learn • Matplotlib
 
-✅ K-Means Clustering  
-✅ Data Visualization  
-✅ Data Preprocessing  
-✅ Behavioral Analysis
+**Features**
+- ✅ K-Means Clustering
+- ✅ Data Preprocessing
+- ✅ Cluster Visualization
+- ✅ Behavioral Analysis
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tharunnayak-45/Customer-Segmentation-project)
+🔗 **Repository:**  
+https://github.com/Tharunnayak-45/Customer-Segmentation-project
 
 </td>
 
