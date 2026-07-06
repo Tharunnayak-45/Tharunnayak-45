@@ -44,10 +44,13 @@ I am currently seeking **Software Engineer** internship or full-time opportuniti
 ## 📂 Featured Projects
 
 <table>
+
 <tr>
-<td width="33%" valign="top">
+
+<td width="50%" valign="top">
 
 ### 📦 Courier Tracking System
+
 A Java Full Stack web app for booking, tracking, and managing courier deliveries with role-based access.
 
 **Stack:** Java · JSP · Servlets · JDBC · MySQL · HTML/CSS/JS
@@ -55,81 +58,91 @@ A Java Full Stack web app for booking, tracking, and managing courier deliveries
 ✅ User Authentication  
 ✅ Courier Booking & Tracking  
 ✅ Admin Dashboard  
-✅ Delivery Status Management  
+✅ Delivery Status Management
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tharunnayak-45/Courier-Tracking-System-App)
 
-<h3>🌐 Live Demo</h3>
+<h4>🎥 Demo</h4>
 
-<a href="https://github.com/user-attachments/assets/1cc8cae1-d751-4319-89e4-01c211b98967" target="_blank">
-  ▶️Click Here Watch Demo
+<a href="https://github.com/user-attachments/assets/1cc8cae1-d751-4319-89e4-01c211b98967">
+▶️ Watch Demo
 </a>
 
 </td>
-<td width="33%" valign="top">
-<td width="33%" valign="top">
+
+<td width="50%" valign="top">
 
 ### 🎵 BeatVerse
 
-A modern Spotify-inspired web music player built with **HTML, CSS, and JavaScript**, featuring smooth playback controls, playlist management, favorites, responsive layouts, and an immersive user experience.
+A modern Spotify-inspired music player featuring smooth playback, playlists, favorites, and a beautiful responsive UI.
 
-**Stack:** HTML5 · CSS3 · JavaScript · Font Awesome · Google Fonts
+**Stack:** HTML5 · CSS3 · JavaScript
 
-✅ Modern Spotify-inspired UI  
-✅ Music Playback Controls  
+✅ Spotify-inspired UI  
 ✅ Playlist Management  
 ✅ Favorite Songs  
-✅ Responsive Design  
-✅ Smooth Animations  
+✅ Responsive Design
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tharunnayak-45/CodeAlpha_Music-Player)
 
-<h3>🌐 Live Website</h3>
+<h4>🌐 Live Website</h4>
 
-<a href="https://beatverse-player.vercel.app/" target="_blank">
-  🌍 Visit BeatVerse
+<a href="https://beatverse-player.vercel.app/">
+🌍 Visit Website
 </a>
 
 <br><br>
 
-<h3>🎥 Project Demo</h3>
+<h4>🎥 Demo</h4>
 
-<a href="https://drive.google.com/file/d/1Z4lMg_foHQljNfgwwEZ-oLg-27mmICQc/view?usp=drive_link" target="_blank">
-  ▶️ Click Here to Watch Demo
+<a href="https://drive.google.com/file/d/1Z4lMg_foHQljNfgwwEZ-oLg-27mmICQc/view?usp=drive_link">
+▶️ Watch Demo
 </a>
 
 </td>
 
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
 ### 🖼️ Image Gallery
-A fully responsive Image Gallery with category filtering and search, built with vanilla HTML/CSS/JS.
+
+A responsive image gallery featuring search, filtering, and a modern user interface.
 
 **Stack:** HTML5 · CSS3 · JavaScript
 
-✅ Responsive Design  
 ✅ Category Filtering  
 ✅ Search Functionality  
-✅ Mobile Friendly UI  
+✅ Responsive Design  
+✅ Modern UI
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tharunnayak-45/CodeAlpha_Image-Gallery)
 
 </td>
-<td width="33%" valign="top">
+
+<td width="50%" valign="top">
 
 ### 🤖 Customer Segmentation
-A Machine Learning project applying K-Means clustering for intelligent customer segmentation.
 
-**Stack:** Python · Pandas · NumPy · Scikit-learn · Matplotlib
+Machine Learning project using K-Means clustering to identify customer groups based on purchasing behaviour.
+
+**Stack:** Python · Pandas · NumPy · Scikit-learn
 
 ✅ K-Means Clustering  
+✅ Data Visualization  
 ✅ Data Preprocessing  
-✅ Cluster Visualization  
-✅ Behavioral Analysis  
+✅ Behavioral Analysis
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tharunnayak-45/Customer-Segmentation-project)
 
 </td>
+
 </tr>
+
 </table>
+
 
 ---
 
