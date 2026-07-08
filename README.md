@@ -89,6 +89,31 @@ https://drive.google.com/file/d/1Z4lMg_foHQljNfgwwEZ-oLg-27mmICQc/view
 
 ---
 
+### 🧠 NeuroTac AI 
+
+A beautifully designed Tic-Tac-Toe game built with modern web technologies and smart AI.
+
+**Tech Stack:** HTML • CSS • JavaScript • AI Logic • Responsive Design
+
+**Features**
+- ✅ Intelligent AI Opponent
+- ✅ Multiple Difficulty Levels
+- ✅ Minimax Algorithm Based Gameplay
+- ✅ Real-Time Game Interaction
+- ✅ Score Tracking System
+- ✅ Responsive Modern UI
+- ✅ Smooth Animations & User Experience
+
+🔗 **Repository:**  
+https://github.com/Tharunnayak-45/NeuroTac-AI
+
+🌐 **Live Website:**  
+https://neurotac.vercel.app/
+
+🎥 **Demo:**  
+[▶️ Click Here to Watch Demo](https://github.com/user-attachments/assets/051bb345-7865-4cb4-a10a-d34732d4673b)
+
+---
 ### 🖼️ Image Gallery
 
 A responsive image gallery with category filtering, search functionality, and an elegant modern interface.
