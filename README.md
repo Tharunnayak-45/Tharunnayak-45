@@ -15,6 +15,10 @@ Through academic and personal projects, I have gained hands-on experience in **J
 I am currently seeking **Software Engineer** internship or full-time opportunities where I can contribute, learn from experienced professionals, and grow in a collaborative environment.
 
 **Core Skills:** Java • Spring Boot • REST APIs • SQL • HTML • CSS • JavaScript • Python • AI/ML • Data Structures & Algorithms
+------
+
+## 📄 Resume <p align="center"> <a href="https://github.com/user-attachments/files/30096135/Tharun_nayak_Resume.pdf" target="_blank"> <img src="https://img.shields.io/badge/View%20Resume-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume"/> </a> &nbsp; <a href="https://github.com/user-attachments/files/30096135/Tharun_nayak_Resume.pdf" download> <img src="https://img.shields.io/badge/Download%20Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume"/> </a> </p>
+-----
 
 
 ## 🛠️ Tech Stack
