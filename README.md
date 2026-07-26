@@ -19,7 +19,7 @@ I am currently seeking **Software Engineer** internship or full-time opportuniti
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://github.com/Tharunnayak-45/Resume/raw/main/Tharunnayak_Resume.pdf" target="_blank">
+  <a href="https://drive.google.com/uc?export=download&id=1erScFavOjxCOm7mKs_6QMk3PeV_9Eu31" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume"/>
   </a>
 </p>
