@@ -17,13 +17,11 @@ I am currently seeking **Software Engineer** internship or full-time opportuniti
 **Core Skills:** Java • Spring Boot • REST APIs • SQL • HTML • CSS • JavaScript • Python • AI/ML • Data Structures & Algorithms
 
 ## 📄 Resume
-
 <p align="center">
   <a href="https://drive.google.com/file/d/1V1WuXe_cYMUCYxCVaH0kMmC1gD51zd_G/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume"/>
   </a>
 </p>
-
 
 
 
